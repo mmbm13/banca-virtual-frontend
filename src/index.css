@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Action Jackson";
+  font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+  src: local("Action Jackson"), local("Action Jackson-Regular"),
+    url("@/static/fonts/Actionj.ttf") format("truetype");
+}

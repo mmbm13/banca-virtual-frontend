@@ -1,0 +1,17 @@
+.slider {
+  color: #20b2aa;
+}
+
+@media print
+{    
+    .MuiDrawer-root, button
+    {
+        display: none !important;
+    }
+
+    .RaLayout-content {
+      max-height: max-content !important;
+      overflow: visible !important;
+    }
+
+}
